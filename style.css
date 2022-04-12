@@ -1,0 +1,14 @@
+body{
+
+    text-align: center;
+    color: red;
+    background-size: cover;
+    background-position: center;
+   
+}
+#mycanvas{
+    background-color: white;
+    border-color: black;
+    border-radius:4px ;
+    border-style: solid;
+}
